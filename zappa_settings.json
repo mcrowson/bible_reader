@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "bible_reader.app", 
+        "s3_bucket": "bible-reader"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "intents": [
+        {
+            "intent": "ReadPassage",
+            "slots": [
+              {
+                "name": "book",
+                "type": "BIBLE_BOOK"
+              },
+              {
+                "name": "chapterOne",
+                "type": "AMAZON.NUMBER"
+              },
+              {
+                "name": "verseOne",
+                "type": "AMAZON.NUMBER"
+              },
+              {
+                "name": "chapterTwo",
+                "type": "AMAZON.NUMBER"
+              },
+              {
+                "name": "verseTwo",
+                "type": "AMAZON.NUMBER"
+              }
+            ]
+        },
+        {
+            "intent": "AMAZON.ResumeIntent"
+        },
+        {
+            "intent": "AMAZON.PauseIntent"
+        },
+        {
+            "intent": "YesIntent"
+        }
+    ]
+}

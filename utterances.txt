@@ -1,0 +1,30 @@
+YesIntent yes
+YesIntent sure
+ReadPassage to read {book} {chapterOne}
+ReadPassage to read {book} {chapterOne} {verseOne}
+ReadPassage to read {book} chapter {chapterOne} verse {verseOne}
+ReadPassage to read {book} {chapterOne} {verseOne}
+ReadPassage to read {book} {chapterOne} {verseOne} to {verseTwo}
+ReadPassage to read {book} {chapterOne} {verseOne} through {verseTwo}
+ReadPassage to read {book} from chapter {chapterOne} verse {verseOne} to chapter {chapterTwo} verse {verseTwo}
+ReadPassage to read {book} chapter {chapterOne} verse {verseOne} to chapter {chapterTwo} verse {verseTwo}
+ReadPassage to read {book} {chapterOne} {verseOne} to {chapterTwo} {verseTwo}
+ReadPassage to read {book} chapter {chapterOne} verse {verseOne} to verse {verseTwo}
+ReadPassage to read {book} from chapter {chapterOne} verse {verseOne} to verse {verseTwo}
+ReadPassage to read {book} {chapterOne} to {chapterTwo}
+ReadPassage to read {book} chapter {chapterOne} to {chapterTwo}
+ReadPassage to read {book} chapter {chapterOne} to chapter {chapterTwo}
+ReadPassage read {book} {chapterOne}
+ReadPassage read {book} {chapterOne} {verseOne}
+ReadPassage read {book} chapter {chapterOne} verse {verseOne}
+ReadPassage read {book} {chapterOne} {verseOne}
+ReadPassage read {book} from chapter {chapterOne} verse {verseOne} to chapter {chapterTwo} verse {verseTwo}
+ReadPassage read {book} chapter {chapterOne} verse {verseOne} to chapter {chapterTwo} verse {verseTwo}
+ReadPassage read {book} {chapterOne} {verseOne} to {chapterTwo} {verseTwo}
+ReadPassage read {book} {chapterOne} {verseOne} to {verseTwo}
+ReadPassage read {book} {chapterOne} {verseOne} through {verseTwo}
+ReadPassage read {book} chapter {chapterOne} verse {verseOne} to verse {verseTwo}
+ReadPassage read {book} from chapter {chapterOne} verse {verseOne} to verse {verseTwo}
+ReadPassage read {book} {chapterOne} to {chapterTwo}
+ReadPassage read {book} chapter {chapterOne} to {chapterTwo}
+ReadPassage read {book} chapter {chapterOne} to chapter {chapterTwo}
