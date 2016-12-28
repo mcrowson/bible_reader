@@ -1,5 +1,6 @@
 {
     "dev": {
+        "project_name": "biblereader",
         "app_function": "bible_reader.app", 
         "s3_bucket": "bible-reader"
     }
